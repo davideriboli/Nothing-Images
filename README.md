@@ -1,5 +1,5 @@
 # 🚀 Nothing Devices OTA Archive
-
+Original project by [Spike0en](https://github.com/spike0en/nothing_archive)
 ---
 
 ## **🌍 Language Options**
